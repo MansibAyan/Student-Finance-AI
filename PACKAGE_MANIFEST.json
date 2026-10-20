@@ -1,0 +1,12 @@
+{
+  "project": "Student Finance AI",
+  "package_type": "competition_submission_bundle",
+  "package_date": "2026-10-20",
+  "scope": "Prototype source, technical documentation, security self-assessment, test plan, and presentation materials",
+  "contains_execution_claims": false,
+  "notes": [
+    "Workflow credentials must be rebound privately.",
+    "Use synthetic data for tests and demonstrations.",
+    "Attach dated redacted runtime evidence from the target staging configuration."
+  ]
+}

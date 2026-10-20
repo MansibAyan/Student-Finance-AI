@@ -1,0 +1,27 @@
+﻿.env
+.env.*
+!.env.example
+*service_role*
+*service-role*
+*credentials*
+*secret*
+*token*
+*.pem
+*.key
+id_rsa
+id_ed25519
+__pycache__/
+node_modules/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+
+# Local environments and generated files
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+*.log
+
+presentation/
